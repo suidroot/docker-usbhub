@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 FROM ubuntu:18.04 
 
 LABEL maintainer="Ben Mason <locutus@the-collective.net>"
